@@ -1,1 +1,2 @@
 # Pizza-Sales-Analysis--Excel
+Created an interactive dashboard using Advanced Excel to analyze pizza sales data. Leveraged PivotTables, PivotCharts, slicers, and conditional formatting to visualize key metrics like total revenue, order trends by day/hour, and top-selling pizzas. Applied functions such as SUMIFS, COUNTIFS, VLOOKUP, and date functions to extract insights. Identified peak order times (12 PM – 5 PM), top-selling category (Classic – Large), and helped highlight sales performance patterns.
